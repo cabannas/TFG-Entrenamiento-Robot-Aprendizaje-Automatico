@@ -10,7 +10,7 @@ Estos proyectos se despliegan en la plataforma de desarrollo Unity, y tienen com
 
 En el proyecto se utilizó la versión de 2019.3.14f1 de Unity.
 
-2. Descargar e implementar la librería ML-Agents.
+### 2. Descargar e implementar la librería ML-Agents.
 
 Para ello, seguiremos los pasos de la página web de ML-Agents.
 
@@ -18,27 +18,27 @@ Para ello, seguiremos los pasos de la página web de ML-Agents.
 
 En el proyecto se utilizó la versión de 1.0.2 de ML-Agents.
 
-3. Descargar los proyectos en el GIT:
+### 3. Descargar los proyectos en el GIT:
 
 [TFG-Entrenamiento-Robot-Aprendizaje-Automatico](https://github.com/cabannas/TFG-Entrenamiento-Robot-Aprendizaje-Automatico)
 
 Se recomienda descomprimir los proyectos en una carpeta para poder acceder a los proyectos más fácilmente desde el HUB de Unity.
 
-4. Abrir los proyectos en Unity.
+### 4. Abrir los proyectos en Unity.
 
 A través del HUB de Unity, añadiremos la carpeta del proyecto utilizando la opción "ADD".
 
 A continuación, deberá aparecer el proyecto en la lista de proyectos. Interactuaremos con el proyecto desde el HUB de Unity para abrirlo.
 
-5. Configuraciones en Unity:
+### 5. Configuraciones en Unity:
 
 A continuación podremos editar las configuraciones del proyecto:
 
-5.1. En la carpeta Materials encontraremos los elementos "material" de Unity de los componentes del proyecto.
+#### 5.1. En la carpeta Materials encontraremos los elementos "material" de Unity de los componentes del proyecto.
 
-5.2. En la carpeta ML-Agents se encuentran los ficheros por defecto implementados por ML-Agents.
+#### 5.2. En la carpeta ML-Agents se encuentran los ficheros por defecto implementados por ML-Agents.
 
-5.3. En la carpeta Scripts podemos encontrar los scripts que dictan las configuraciones de los componentes del proyecto.
+#### 5.3. En la carpeta Scripts podemos encontrar los scripts que dictan las configuraciones de los componentes del proyecto.
 Aquí podremos encontrar los siguientes scripts:
     
 * AgentControl.cs : es el script principal que se comunica con la API de Python, donde están detallados los componentes de la librería de ML-Agents como los observadores, los actuadores y el sistema de recompensas.
@@ -48,7 +48,7 @@ Aquí podremos encontrar los siguientes scripts:
 
 Existen otros scripts en algunos proyectos que gestionan la configuración de los laberintos.
 
-6. Ejecutar los entrenamientos usando los proyectos.
+### 6. Ejecutar los entrenamientos usando los proyectos.
 
 Siguiendo los pasos de la guía de ML-Agents que dejamos a continuación podremos entrenar nuevos modelos usando los entornos de los proyectos, y podremos monitorizar este entrenamiento usando la herramienta TensorBoard.
 
