@@ -16,6 +16,8 @@ Para ello, seguiremos los pasos de la página web de ML-Agents.
 
 [Unity | ML-Agents | Installation](https://github.com/Unity-Technologies/ml-agents/blob/main/docs/Installation.md)
 
+En el proyecto se utilizó la versión de 1.0.2 de ML-Agents.
+
 3. Descargar los proyectos en el GIT:
 
 [TFG-Entrenamiento-Robot-Aprendizaje-Automatico](https://github.com/cabannas/TFG-Entrenamiento-Robot-Aprendizaje-Automatico)
