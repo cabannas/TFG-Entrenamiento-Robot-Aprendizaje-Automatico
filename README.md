@@ -4,7 +4,7 @@ Estos proyectos se despliegan en la plataforma de desarrollo Unity, y tienen com
 
 ## Pasos a Seguir para Desplegar los Proyectos
 
-1. Descargar Unity:
+### 1. Descargar Unity:
 
 [Unity](https://unity.com/)
 
