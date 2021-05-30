@@ -1,4 +1,4 @@
-# Acceso al los proyectos en Unity del TFG "Entrenamiento de un Robot Mediante Tareas de Aprendizaje Automático"
+# Acceso a los proyectos en Unity del TFG "Entrenamiento de un Robot Mediante Tareas de Aprendizaje Automático"
 
 Estos proyectos se despliegan en la plataforma de desarrollo Unity, y tienen como objetivo poder ejecutar las distintas pruebas que se desarrollaron en el TFG.
 
